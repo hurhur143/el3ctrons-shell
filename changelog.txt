@@ -1,0 +1,14 @@
+ 
+ 
+                  El3ctron's Shell v0.2
+                        
+                        Changelogs:
+
+-- Made a feature to detect external commands
+
+-- Made a feature that executes external commands by using the
+environment variable "PATH"
+
+-- You can now execute external commands such as gcc, py,
+gdb, nasm, etc.
+

@@ -1,0 +1,23 @@
+
+The El3ctron's Shell Help Center:
+
+Commands:
+
+cls - Clears the terminal.
+exit (number) - Exits the terminal with an exit status.
+echo (string / sentence) - Outputs what you put as a string / sentence.
+type (command) - Checks the type of command (Built-in, Executable, etc.)
+
+-h / --help - You guessed it. Opens the help center.
+-a / --about - Opens up the page about this shell.
+-c / --changelog - Opens up the changelog of this shell.
+
+External Commands:
+
+examples:
+
+gcc - A C compiler
+ls - Lists the directories/files in the current directory.
+
+more features coming soon!
+

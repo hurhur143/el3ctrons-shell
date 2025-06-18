@@ -1,0 +1,15 @@
+
+
+Welcome to El3ctron's temu Homemade Shell!
+
+This is a shell i made as a challenge to learn
+even more programming and practice my skills.
+
+I am a beginner, i still have alot to learn.
+
+Also, this is work in progress, so expect bugs!
+
+Looking for testers to identify bugs.
+
+            From El3ctron
+

@@ -5,6 +5,11 @@ Just open the shell.exe file in the build folder to run el3ctron's homemade shel
 Have fun messing around with my dumbass shell!
 
 
+To download the code:
+
+Head to releases or download it using git or http
+
+
 
 For changing the code:
 

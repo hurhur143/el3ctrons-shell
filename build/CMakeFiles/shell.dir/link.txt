@@ -1,0 +1,1 @@
+/c/mingw64/bin/gcc.exe -Wl,--enable-auto-import CMakeFiles/shell.dir/main.c.o -o shell.exe -Wl,--out-implib,libshell.dll.a -Wl,--major-image-version,0,--minor-image-version,0

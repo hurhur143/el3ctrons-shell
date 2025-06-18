@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/c/CFiles/el3ctrons-shell/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
